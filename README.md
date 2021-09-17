@@ -1,17 +1,17 @@
 https://github.com/AnuttharadeSilva/Pump-it-Up-Data-Mining-the-Water-Table
 
 Preprocessing and feature engineering techniques used:
-SimpleImputer
-OneHotEncoder
-Standard Scalar
+SimpleImputer,
+OneHotEncoder,
+Standard Scalar,
 Column Transformer
 
 Classificaiton models:
-RandomForestClassifier
-XGBClassifier
-LGBMClassifier
+RandomForestClassifier,
+XGBClassifier,
+LGBMClassifier,
 Ensembling
 
 Evaluation:
-Accuracy score
+Accuracy score,
 confusion matrix
